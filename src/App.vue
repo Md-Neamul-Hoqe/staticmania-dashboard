@@ -4,6 +4,7 @@ import UserInfo from './components/UserInfo.vue'
 </script>
 
 <template>
+  <!-- sidebar -->
   <header>
     <UserInfo userName="Md. Neamul Hoqe" userEmail="hoqe1997@gmail.com" notification="5" />
 
@@ -28,6 +29,8 @@ import UserInfo from './components/UserInfo.vue'
       </nav>
     </aside>
   </header>
+
+  <!-- current router view -->
   <main>
     <RouterView />
   </main>

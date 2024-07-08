@@ -23,6 +23,7 @@ const Total = 872.4 + 1378.2 + 928.5 + 420.7 + 520.0
 
 <style scoped>
 h2 {
+  font-family: 'Avenire Next', sans-serif;
   font-weight: 700;
   line-height: 2rem;
   font-size: 1.33rem;
